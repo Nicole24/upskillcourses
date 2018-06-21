@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+    <head>
+        <title> HTML Page </title>
+
+    </head>
+
+    <body>
+        <h1>This is a large heading - for titles and ctas.</h1>
+        <h2>This is an H2</h2>
+        <h6>This is an h6</h6>
+        <p>This is a paragraph - for bodies.</p>
+
+        <ul>
+            <li> Bananas</li>
+            <li>Milk</li>
+            <li>Apples</li>
+        </ul>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg/220px-Sir_Tim_Berners-Lee_%28cropped%29.jpg">
+        
+    </body>
+
+</html>
