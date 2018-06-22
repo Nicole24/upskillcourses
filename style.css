@@ -1,0 +1,40 @@
+html {
+    height: 100%;
+}
+
+
+
+h2 {
+    background: linear-gradient(to top right,pink, yellow);
+    text-shadow: 4px 4px 10px black;;
+}
+/* comments - display block occupies the full available width */
+
+h1 {
+    font-size: 2em;
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+    text-decoration: overline underline;
+    padding: 20px;
+    margin: 0 auto;
+    width: 200px;
+    display: block;
+    
+}
+
+li {
+    list-style-type: none;
+    float: left;
+    margin-right:10px; 
+}
+
+div {
+    border: 1px solid brown;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px black;
+    width: 400px;
+}
+
+.secondheading {
+    color: hotpink;
+}
