@@ -1,24 +1,36 @@
-<!doctype html>
-<html>
-    <head>
-        <title> HTML Page </title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CSS</title>
+    <link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+     <link rel="stylesheet" href="style.css">
 
-    </head>
 
-    <body>
-        <h1>This is a large heading - for titles and ctas.</h1>
-        <h2>This is an H2</h2>
-        <h6>This is an h6</h6>
-        <p>This is a paragraph - for bodies.</p>
+</head>
+<body>
 
-        <ul>
-            <li> Bananas</li>
-            <li>Milk</li>
-            <li>Apples</li>
-        </ul>
+    <div>
+            <h1>CSS Practice</h1>
+            <h1 class="secondheading">CSS Practice</h1>
+    </div>
 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg/220px-Sir_Tim_Berners-Lee_%28cropped%29.jpg">
-        
-    </body>
+    
+    
+    <h2>A second a heading</h2>
 
+    <h2>Another heading</h2>
+
+    <p>This is a paragraph</p>
+
+    <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>FAQ</li>
+
+    </ul>
+
+</body>
 </html>
